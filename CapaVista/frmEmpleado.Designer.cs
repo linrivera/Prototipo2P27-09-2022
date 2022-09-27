@@ -127,9 +127,9 @@
             this.sueldoempleadoDataGridViewTextBoxColumn,
             this.estatusempleadoDataGridViewTextBoxColumn});
             this.dataGridView1.DataSource = this.empleadoBindingSource;
-            this.dataGridView1.Location = new System.Drawing.Point(124, 268);
+            this.dataGridView1.Location = new System.Drawing.Point(15, 330);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(525, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(631, 150);
             this.dataGridView1.TabIndex = 66;
             this.dataGridView1.RowHeaderMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView1_RowHeaderMouseClick);
             // 
@@ -181,7 +181,7 @@
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(713, 141);
+            this.btnLimpiar.Location = new System.Drawing.Point(492, 269);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(75, 23);
             this.btnLimpiar.TabIndex = 65;
@@ -191,7 +191,7 @@
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(713, 112);
+            this.btnEliminar.Location = new System.Drawing.Point(319, 269);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(75, 23);
             this.btnEliminar.TabIndex = 64;
@@ -201,7 +201,7 @@
             // 
             // btnModificar
             // 
-            this.btnModificar.Location = new System.Drawing.Point(713, 78);
+            this.btnModificar.Location = new System.Drawing.Point(167, 269);
             this.btnModificar.Name = "btnModificar";
             this.btnModificar.Size = new System.Drawing.Size(75, 23);
             this.btnModificar.TabIndex = 63;
@@ -263,11 +263,11 @@
             // 
             // btnInsertar
             // 
-            this.btnInsertar.Location = new System.Drawing.Point(713, 49);
+            this.btnInsertar.Location = new System.Drawing.Point(22, 269);
             this.btnInsertar.Name = "btnInsertar";
             this.btnInsertar.Size = new System.Drawing.Size(75, 23);
             this.btnInsertar.TabIndex = 58;
-            this.btnInsertar.Text = "Insertar";
+            this.btnInsertar.Text = "agregar";
             this.btnInsertar.UseVisualStyleBackColor = true;
             this.btnInsertar.Click += new System.EventHandler(this.btnInsertar_Click);
             // 
@@ -277,6 +277,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(212, 20);
             this.textBox1.TabIndex = 56;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // labelNombreaplicacion
             // 
@@ -306,7 +307,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.ClientSize = new System.Drawing.Size(670, 516);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox4);

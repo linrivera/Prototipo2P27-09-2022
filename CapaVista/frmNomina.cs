@@ -158,5 +158,10 @@ namespace CapaVista
             txtCodigo.Text = "";
             MessageBox.Show("Nomina Finalizada con Éxito");
         }
+
+        private void txtDocumento_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -8,7 +8,6 @@ C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecut
 C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\CapaVista.dll.config
 C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\CapaControlador.pdb
 C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\CapaModelo.pdb
-C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\obj\Debug\Ejecutador.csproj.AssemblyReference.cache
 C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\obj\Debug\Ejecutador.Properties.Resources.resources
 C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\obj\Debug\Ejecutador.csproj.GenerateResource.cache
 C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\obj\Debug\Ejecutador.csproj.CoreCompileInputs.cache
