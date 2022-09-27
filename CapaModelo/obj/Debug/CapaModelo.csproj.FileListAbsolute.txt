@@ -1,0 +1,12 @@
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaModelo\bin\Debug\CapaModelo.dll
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaModelo\obj\Debug\CapaModelo.dll
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.pdb
