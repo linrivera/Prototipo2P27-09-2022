@@ -64,6 +64,7 @@
             // 
             // catalogosToolStripMenuItem
             // 
+            this.catalogosToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.catalogosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.puestosToolStripMenuItem,
             this.empleadosToolStripMenuItem});
