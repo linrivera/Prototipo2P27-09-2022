@@ -1,0 +1,17 @@
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\Ejecutador.exe.config
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\Ejecutador.exe
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\Ejecutador.pdb
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\CapaVista.dll
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\CapaControlador.dll
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\CapaModelo.dll
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\CapaVista.pdb
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\CapaVista.dll.config
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\CapaControlador.pdb
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\bin\Debug\CapaModelo.pdb
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\obj\Debug\Ejecutador.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\obj\Debug\Ejecutador.Properties.Resources.resources
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\obj\Debug\Ejecutador.csproj.GenerateResource.cache
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\obj\Debug\Ejecutador.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\obj\Debug\Ejecutador.csproj.CopyComplete
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\obj\Debug\Ejecutador.exe
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\Ejecutador\Ejecutador\obj\Debug\Ejecutador.pdb
