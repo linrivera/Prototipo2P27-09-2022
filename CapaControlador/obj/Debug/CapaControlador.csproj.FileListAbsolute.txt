@@ -16,3 +16,12 @@ C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaControlador\obj\Debug\CapaC
 C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
 C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
 C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\linri\Desktop\correcto\Prototipo2P27-09-2022\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\linri\Desktop\correcto\Prototipo2P27-09-2022\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\linri\Desktop\correcto\Prototipo2P27-09-2022\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\linri\Desktop\correcto\Prototipo2P27-09-2022\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\linri\Desktop\correcto\Prototipo2P27-09-2022\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\correcto\Prototipo2P27-09-2022\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\correcto\Prototipo2P27-09-2022\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\linri\Desktop\correcto\Prototipo2P27-09-2022\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\linri\Desktop\correcto\Prototipo2P27-09-2022\CapaControlador\obj\Debug\CapaControlador.pdb
