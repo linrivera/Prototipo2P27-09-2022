@@ -267,7 +267,7 @@
             this.btnInsertar.Name = "btnInsertar";
             this.btnInsertar.Size = new System.Drawing.Size(75, 23);
             this.btnInsertar.TabIndex = 58;
-            this.btnInsertar.Text = "Insertar";
+            this.btnInsertar.Text = "Agrgar";
             this.btnInsertar.UseVisualStyleBackColor = true;
             this.btnInsertar.Click += new System.EventHandler(this.btnInsertar_Click);
             // 
