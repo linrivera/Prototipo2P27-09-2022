@@ -1,0 +1,51 @@
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\bin\Debug\CapaVista.dll
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\bin\Debug\CapaVista.pdb
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\obj\Debug\CapaVista.dll
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\obj\Debug\CapaVista.pdb
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\obj\Debug\CapaVista.MDI.resources
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\obj\Debug\CapaVista.frmPuesto.resources
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\bin\Debug\CapaControlador.dll
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\bin\Debug\CapaModelo.dll
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\bin\Debug\CapaControlador.pdb
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\bin\Debug\CapaModelo.pdb
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\bin\Debug\CapaVista.dll.config
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\obj\Debug\CapaVista.frmEmpleado.resources
+D:\UMG\Año4\Semestre 2\Analisis De Sistemas 2\SegundoParcialAS2\PrototipoFinal\CapaVista\obj\Debug\CapaVista.frmNomina.resources
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\bin\Debug\CapaVista.dll.config
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.frmEmpleado.resources
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.frmNomina.resources
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.frmPuesto.resources
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.MDI.resources
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\linri\Desktop\Prototipo__2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\bin\Debug\CapaVista.dll.config
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\obj\Debug\CapaVista.frmEmpleado.resources
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\obj\Debug\CapaVista.frmNomina.resources
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\obj\Debug\CapaVista.frmPuesto.resources
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\obj\Debug\CapaVista.MDI.resources
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\linri\Desktop\Nueva carpeta (5)\Prototipo2P27-09-2022\CapaVista\obj\Debug\CapaVista.pdb
